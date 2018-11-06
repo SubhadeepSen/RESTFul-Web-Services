@@ -1,0 +1,32 @@
+**********************************BASIC***************************************
+Returning response in different formats (User defined)
+Annoations [@Provider]
+Implemetation of pagination and filter for resources
+Exception handling (using WebApplication exception and ExceptionMapper class)
+Implementaion of HATEOAS
+
+*********************************ADVANCED*************************************
+
+Resource life cycle (@Singleton)
+Implentation of user defined/custom Param Converter
+Implentation of user defined/custom MesssageBodyReader and MessageBodyWriter
+Implentation of user defined/custom Media Type
+Implentation of REST Authentication [Basic Access Authentication, Digest Access Authentication,
+Asymmetric Cryptography, O Auth, JSON Web Tokens]
+Implentation of REST Authorization
+Implentation of REST Filter and Interceptor [ReaderInterceptor and WriterInterceptor]
+
+Implentation of REST Client using java program (jax-rs) [differnt HTTP request]
+Creating Invocation object for different HTTP Methods
+Response for generic types [expecting List<> response]
+
+--------------------------------------
+
+Implementation of Filter and Interceptor on client side
+
+
+
+
+
+
+
